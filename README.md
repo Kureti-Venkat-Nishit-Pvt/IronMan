@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+<div align="center">
 
-First, run the development server:
+<!-- ARC REACTOR -->
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Arc_Reactor.svg" width="180px"/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# ❤️💛 IRON MAN 💛❤️
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### ⚡ Powered by J.A.R.V.I.S. ⚡
+**J**ust **A** **R**ather **V**ery **I**ntelligent **S**ystem
+  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![Status](https://img.shields.io/badge/STATUS-TESTING-gold?style=for-the-badge&logo=testinglibrary&logoColor=red)
 
-## Learn More
+![IRON-MAN](https://img.shields.io/badge/IRONMAN%20-%20WEBPAGE-red?style=for-the-badge&logo=marvelapp&logoColor=gold)
 
-To learn more about Next.js, take a look at the following resources:
+</div>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# ⚡ About This Project
 
-## Deploy on Vercel
+> A **testing website** built in the **Iron Man Theme** ❤️💛 inspired by futuristic UI, Tony Stark technology, and J.A.R.V.I.S aesthetics.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> This repository is [![Forked From](https://img.shields.io/badge/FORKED%20FROM-devinilabs%2Firon--man-red?style=for-the-badge&logo=github&logoColor=gold)](https://github.com/devinilabs/iron-man)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 🚀 How to Deploy the Webpage in Vercel
+
+## VERCEL
+> One of the way to Deploy the Webpage is through the Vercel Website.
+
+> In this repo we are deploying the webpage using Vercel.
+
+[![VERCEL](https://img.shields.io/badge/VERCEL-OPEN%20DASHBOARD-black?style=for-the-badge&logo=vercel&logoColor=gold)](https://vercel.com/kureti-venkat-nishit-s-projects)
+
+> I have already created a Project
+
+[![ironman_wp](https://img.shields.io/badge/ironman__wp-OPEN%20PROJECT-red?style=for-the-badge&logo=vercel&logoColor=gold)](https://vercel.com/kureti-venkat-nishit-s-projects/ironman_wp)
+
+> Go into **Vercel Project `ironman_wp`** to view all the files.
+
+---
+# 🌍 Links
+
+[![IRON_MAN](https://img.shields.io/badge/IRON__MAN-LIVE%20WEBSITE-gold?style=for-the-badge&logo=vercel&logoColor=red)](https://ironman-l7hp27igs-kureti-venkat-nishit-s-projects.vercel.app/)
+
+[![GitHub Repo](https://img.shields.io/badge/GITHUB-IRONMAN__REPO-red?style=for-the-badge&logo=github&logoColor=gold)](https://github.com/Kureti-Venkat-Nishit-Pvt/IronMan)
+
+
+---
+
+# 👨‍💻 Author
+
+## Venkat Nishit Kureti
+
+> ⚡ “Sometimes you gotta run before you can walk.” — Tony Stark
+
+---
+
+<div align="center">
+
+![Powered By](https://img.shields.io/badge/POWERED%20BY-J.A.R.V.I.S.-red?style=for-the-badge&logo=marvelapp&logoColor=gold)
+
+</div>
+
