@@ -11,10 +11,9 @@
 
 </div>
 
-[![Page_Status](https://img.shields.io/github/actions/workflow/status/Kureti-Venkat-Nishit-Pvt/IronMan/deploy.yml?logo=githubactions&label=Page%20Status&color=red&labelColor=gold)](https://github.com/Kureti-Venkat-Nishit-Pvt/IronMan/actions/workflows/deploy.yml)
+[![Page_Status](https://img.shields.io/github/actions/workflow/status/Kureti-Venkat-Nishit-Pvt/IronMan/deploy.yml?logo=githubactions&label=Page%20Status&labelColor=gold)](https://github.com/Kureti-Venkat-Nishit-Pvt/IronMan/actions/workflows/deploy.yml)
 
-
-[![Iron Man](https://img.shields.io/badge/Iron_Man-OPEN%20WebPage-green?logo=react&logoColor=gold)](https://kureti-venkat-nishit-pvt.github.io/IronMan/)
+[![Iron Man](https://img.shields.io/badge/Web_Page-OPEN-green?logo=react&logoColor=gold)](https://kureti-venkat-nishit-pvt.github.io/IronMan/)
 
 
 # ⚡ About This Project
@@ -22,6 +21,9 @@
 - A **testing website** built in the **Iron Man Theme** ❤️💛 inspired by futuristic UI, Tony Stark technology, and J.A.R.V.I.S aesthetics.
 
 - This repository is [![Forked From](https://img.shields.io/badge/FORKED%20FROM-devinilabs%2Firon--man-red?logo=github&logoColor=gold)](https://github.com/devinilabs/iron-man)
+
+- this Web Page can be deployed using vercel and Github Actions
+- I have created a new repo that runs with **"VERCEL"** [![ironman_wp](https://img.shields.io/badge/IRONMAN__WP-GITHUB%20REPO-red?logo=github&logoColor=gold)](https://github.com/Kureti-Venkat-Nishit-Pvt/ironman_wp)
 
 ---
 
@@ -32,7 +34,7 @@
 
 - I have already created a workflow.
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-OPEN%20PROJECT-red?logo=githubactions&logoColor=gold)](https://github.com/Kureti-Venkat-Nishit-Pvt/IronMan/actions/workflows/deploy.yml)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-OPEN%20PROJECT-gold?logo=githubactions&logoColor=gold)](https://github.com/Kureti-Venkat-Nishit-Pvt/IronMan/actions/workflows/deploy.yml)
 
 ### ⚡ Deployment Workflow
 
@@ -52,7 +54,7 @@ flowchart TD
 
 Click the webpage badge to verify deployment:
 
-[![Iron Man](https://img.shields.io/badge/Iron_Man-OPEN%20WebPage-red?logo=react\&logoColor=gold)](https://kureti-venkat-nishit-pvt.github.io/IronMan/)
+[![Iron Man](https://img.shields.io/badge/Iron_Man-OPEN%20WebPage-gold?logo=react\&logoColor=gold)](https://kureti-venkat-nishit-pvt.github.io/IronMan/)
 
 ---
 
